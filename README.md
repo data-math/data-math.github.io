@@ -1,4 +1,3 @@
 # data-math.github.io
 This is Yuan YAO's course web for 
-Mathematical Introduction to Data Analysis I --
-Geometric and Topological Data Reduction and Visualization
+Mathematics of Data in a series of lectures taught at HKUST and PKU in the past few years.
